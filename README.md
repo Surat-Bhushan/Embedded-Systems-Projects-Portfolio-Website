@@ -1,2 +1,4 @@
-# Embedded-Systems-Projects-Portfolio-Website
-SmartMediBot: Arduino pill dispenser with servo, LCD, buzzer/LED, and real-time clock. BlueRover: Bluetooth robot car upgradable with GPS, camera, mapping, and obstacle sensors. PowerStride: Energy shoes with piezo sensors, battery, ultrasonic alerts. AgroSense: Multi-sensor smart farming system with LCD, automating irrigation and safety.
+💊 SmartMediBot – Automatic Pill Dispenser: Arduino-based system with servo motor dispensing module, LCD interface, buzzer and LED alerts, and real-time clock, ensuring accurate and timely medication management.
+🚗 BlueRover – Bluetooth-Controlled Robot Car: Smartphone-operated rover for remote exploration and rescue, upgradable with GPS, mapping, camera, and obstacle sensors for autonomous field operations.
+👟 PowerStride – Energy-Generating Smart Shoes: Embedded piezoelectric sensors convert walking energy into power stored in a rechargeable lithium battery, featuring ultrasonic sensor alerts for the visually impaired.
+🌾 AgroSense – Integrated Smart Farming Suite: Multi-sensor system with moisture, gas, flame, humidity, temperature, rain, and water level sensors, plus LCD display, automating irrigation, safety alerts, and environmental tracking.
