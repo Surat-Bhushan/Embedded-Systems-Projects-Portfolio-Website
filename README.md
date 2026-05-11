@@ -7,3 +7,5 @@ Bluetooth-Controlled Robot Car: Smartphone-operated rover for remote exploration
 Energy-Generating Smart Shoes: Embedded piezoelectric sensors convert the energy of walking into power stored in a rechargeable lithium battery, featuring ultrasonic sensor alerts for the visually impaired.
 ## AgroSense – 
 Integrated Smart Farming Suite: Multi-sensor system with moisture, gas, flame, humidity, temperature, rain, and water level sensors, plus LCD display, automating irrigation, safety alerts, and environmental tracking.
+## VoltEdge-
+Designed a portable 5V charger using a LM2576 buck converter IC on KiCad and then soldered the charger circuit on a Zero PCB board (Unsuccessful attempt). Analysed the charging reliability and efficiency of the LM2596 buck converter module (adjustable version) by performing different tests on lab, including a charging test on a lithium 3.7V battery.
